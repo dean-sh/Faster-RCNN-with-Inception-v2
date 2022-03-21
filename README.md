@@ -1,6 +1,10 @@
 # Toy Buses Object Detection with Faster-RCNN-with-Inception-v2
 Object Detection Faster-RCNN with Inception v2 and transfer learning
 
+<div align="center">
+    <img src="/DSCF1110.JPG" width="500px"</img> 
+</div>
+
 **Project Report**
 
 Shani ben baruch, Dean Shabi
